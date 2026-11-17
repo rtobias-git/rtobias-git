@@ -4,7 +4,7 @@
 
 ### Estudante de Computação no IFSP — Campus Presidente Epitácio 💻
 
-*Apaixonado por desenvolvimento web, Java EE / Jakarta EE, programação em C e boas práticas de código limpo.*
+*Repositório dos meus estudos, projetos web e conteúdos desenvolvidos durante a faculdade.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-rtobias--git-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rtobias-git)
 [![Localização](https://img.shields.io/badge/Presidente%20Epit%C3%A1cio-SP%2C%20Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
@@ -13,13 +13,13 @@
 
 ---
 
-## 🧑‍💻 Sobre Mim
+## Sobre Mim
 
-- 🎓 Estudante no **Instituto Federal de São Paulo (IFSP)** — Campus Presidente Epitácio.
-- ☕ Desenvolvendo aplicações web com **Java, Jakarta EE (JSF/Facelets, PrimeFaces, EJB, CDI e JPA)** e banco de dados **MySQL**.
-- 🌐 Experiência com **HTML5, JavaScript** e atuação em atividades de **monitoria de Programação Web**.
-- 💾 Interesse em fundamentos da computação, estruturas de dados e programação de sistemas em **linguagem C**.
-- 🌱 Sempre buscando evoluir na arquitetura de software, persistência de dados e organização de projetos.
+Estudante do **Instituto Federal de São Paulo (IFSP)** — Campus Presidente Epitácio. Uso este perfil para publicar conteúdos que aprendo na faculdade, exercícios práticos e alguns programas web.
+
+- Desenvolvimento de aplicações web com **Java (JSF, PrimeFaces e JPA)** e **MySQL**.
+- Criação de páginas e exercícios em **HTML5** e **JavaScript**, incluindo atividades da monitoria de Programação Web.
+- Projetos práticos e trabalhos acadêmicos desenvolvidos nas disciplinas do curso.
 
 ---
 
