@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="210" viewBox="0 0 840 210" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="840" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#a371f7"/>
+      <stop offset="100%" stop-color="#3fb950"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="838" height="208" rx="12" fill="url(#bgGrad)" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="1" y="1" width="838" height="4" rx="2" fill="url(#accentGrad)"/>
+
+  <!-- Coluna Esquerda: Resumo do Portfólio -->
+  <text x="28" y="42" fill="#e6edf3" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="700">📌 Resumo do Portfólio</text>
+
+  <rect x="28" y="60" width="370" height="36" rx="8" fill="#1c2128" stroke="#30363d" stroke-width="1"/>
+  <text x="44" y="83" fill="#8b949e" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Instituição</text>
+  <text x="382" y="83" text-anchor="end" fill="#58a6ff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600">IFSP — Presidente Epitácio</text>
+
+  <rect x="28" y="106" width="370" height="36" rx="8" fill="#1c2128" stroke="#30363d" stroke-width="1"/>
+  <text x="44" y="129" fill="#8b949e" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Projetos de Sistemas &amp; Web</text>
+  <text x="382" y="129" text-anchor="end" fill="#3fb950" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600">5 repositórios documentados</text>
+
+  <rect x="28" y="152" width="370" height="36" rx="8" fill="#1c2128" stroke="#30363d" stroke-width="1"/>
+  <text x="44" y="175" fill="#8b949e" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Foco Principal</text>
+  <text x="382" y="175" text-anchor="end" fill="#d2a8ff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600">Java Web, C &amp; Front-end</text>
+
+  <!-- Divisor Vertical -->
+  <line x1="422" y1="28" x2="422" y2="186" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Coluna Direita: Distribuição dos Projetos -->
+  <text x="446" y="42" fill="#e6edf3" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="700">🧩 Tecnologias nos Projetos</text>
+
+  <!-- Barra de progresso empilhada -->
+  <rect x="446" y="62" width="366" height="12" rx="6" fill="#21262d"/>
+  <rect x="446" y="62" width="219" height="12" rx="6" fill="#f89820"/>
+  <rect x="659" y="62" width="80" height="12" fill="#00599C"/>
+  <rect x="739" y="62" width="73" height="12" rx="6" fill="#f7df1e"/>
+
+  <!-- Legenda -->
+  <circle cx="454" cy="102" r="5" fill="#f89820"/>
+  <text x="468" y="107" fill="#e6edf3" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600">Java / Jakarta EE (JSF, JPA)</text>
+  <text x="812" y="107" text-anchor="end" fill="#8b949e" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">3 projetos</text>
+
+  <circle cx="454" cy="136" r="5" fill="#00599C"/>
+  <text x="468" y="141" fill="#e6edf3" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600">Linguagem C (Sistemas Operacionais)</text>
+  <text x="812" y="141" text-anchor="end" fill="#8b949e" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">1 projeto</text>
+
+  <circle cx="454" cy="170" r="5" fill="#f7df1e"/>
+  <text x="468" y="175" fill="#e6edf3" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600">HTML5 &amp; JavaScript (Monitoria Web)</text>
+  <text x="812" y="175" text-anchor="end" fill="#8b949e" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">1 projeto</text>
+</svg>

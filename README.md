@@ -52,11 +52,10 @@
 
 ---
 
-## 📊 Estatísticas no GitHub
+## 📊 Visão Geral
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rtobias-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub de Tobias" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtobias-git&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas por Tobias" />
+![Resumo do Portfólio de Tobias](assets/perfil-resumo.svg)
 
 </div>
