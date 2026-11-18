@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Olá! Eu sou o Tobias Rafael
+# 👋 Eu sou o Tobias Rafael
 
-### Estudante de Computação no IFSP — Campus Presidente Epitácio 💻
+### Estudante de Computação no IFSP — Campus Presidente Epitácio
 
-*Repositório dos meus estudos, projetos web e conteúdos desenvolvidos durante a faculdade.*
+*Repositório dos meus estudos, projetos web e conteúdos pessoais.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-rtobias--git-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rtobias-git)
 [![Localização](https://img.shields.io/badge/Presidente%20Epit%C3%A1cio-SP%2C%20Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
@@ -15,7 +15,7 @@
 
 ## Sobre Mim
 
-Estudante do **Instituto Federal de São Paulo (IFSP)** — Campus Presidente Epitácio. Uso este perfil para publicar conteúdos que aprendo na faculdade, exercícios práticos e alguns programas web.
+Estudante do **Instituto Federal de São Paulo (IFSP)**. Uso este perfil para publicar conteúdos que aprendo na faculdade, exercícios práticos e alguns programas web.
 
 - Desenvolvimento de aplicações web com **Java (JSF, PrimeFaces e JPA)** e **MySQL**.
 - Criação de páginas e exercícios em **HTML5** e **JavaScript**, incluindo atividades da monitoria de Programação Web.
@@ -23,7 +23,7 @@ Estudante do **Instituto Federal de São Paulo (IFSP)** — Campus Presidente Ep
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -44,15 +44,15 @@ Estudante do **Instituto Federal de São Paulo (IFSP)** — Campus Presidente Ep
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| 📋 [**Sistema de Alocação de Desenvolvedores**](https://github.com/rtobias-git/Prova-ferramentas) | Gerenciamento de alocações em projetos com validação de disponibilidade, filtros e finalização | `Java 17` `JSF` `PrimeFaces` `JPA` `MySQL` |
-| 🛒 [**Sistema de Vendas com Login**](https://github.com/rtobias-git/products-selling-page-with-user-login) | Aplicação de vendas com autenticação, `PhaseListener` para controle de acesso, filtro por categoria e pedido | `Java` `JSF` `PrimeFaces` `JPA` `MySQL` |
-| 🎓 [**Sistema de Venda de Cursos**](https://github.com/rtobias-git/course-selling-page-with-user-login) | Fluxo de vendas de cursos com validação de formulário, notificações e cálculo dinâmico de descontos via AJAX | `Java` `JSF` `PrimeFaces` `JPA` `MySQL` |
-| 💾 [**Sistema de Arquivos `togabifs`**](https://github.com/rtobias-git/File-system-in-C-programming) | Simulador de sistema de arquivos com shell interativo, árvore binária de diretórios, inodes e bitmap de blocos livres | `C` `Sistemas Operacionais` |
-| 🌐 [**Monitoria de Programação Web**](https://github.com/rtobias-git/monitoria-programa-oweb) | Lista de exercícios práticos em HTML e JavaScript puro desenvolvidos durante a monitoria | `HTML5` `JavaScript` |
+|[**Sistema de Alocação de Desenvolvedores**](https://github.com/rtobias-git/Prova-ferramentas) | Gerenciamento de alocações em projetos com validação de disponibilidade, filtros e finalização | `Java 17` `JSF` `PrimeFaces` `JPA` `MySQL` |
+|[**Sistema de Vendas com Login**](https://github.com/rtobias-git/products-selling-page-with-user-login) | Aplicação de vendas com autenticação, `PhaseListener` para controle de acesso, filtro por categoria e pedido | `Java` `JSF` `PrimeFaces` `JPA` `MySQL` |
+|[**Sistema de Venda de Cursos**](https://github.com/rtobias-git/course-selling-page-with-user-login) | Fluxo de vendas de cursos com validação de formulário, notificações e cálculo dinâmico de descontos via AJAX | `Java` `JSF` `PrimeFaces` `JPA` `MySQL` |
+|[**Sistema de Arquivos `togabifs`**](https://github.com/rtobias-git/File-system-in-C-programming) | Simulador de sistema de arquivos com shell interativo, árvore binária de diretórios, inodes e bitmap de blocos livres | `C` `Sistemas Operacionais` |
+|[**Monitoria de Programação Web**](https://github.com/rtobias-git/monitoria-programa-oweb) | Lista de exercícios práticos em HTML e JavaScript puro desenvolvidos durante a monitoria | `HTML5` `JavaScript` |
 
 ---
 
-## 📊 Visão Geral
+## Visão Geral
 
 <div align="center">
 
