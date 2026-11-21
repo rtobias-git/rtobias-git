@@ -6,9 +6,6 @@
 
 *Repositório dos meus estudos, projetos web e conteúdos pessoais.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-rtobias--git-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rtobias-git)
-[![Localização](https://img.shields.io/badge/Presidente%20Epit%C3%A1cio-SP%2C%20Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-
 </div>
 
 ---
