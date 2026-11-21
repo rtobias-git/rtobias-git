@@ -55,12 +55,4 @@ Sou estudante de Ciência da Computação no IFSP (Campus Presidente Epitácio).
 | [**Sistema de Arquivos togabifs**](https://github.com/rtobias-git/File-system-in-C-programming) | Simulador de sistema de arquivos em C com shell próprio, árvore binária para diretórios e controle de blocos livres | `C` `Sistemas Operacionais` |
 | [**Monitoria de Programação Web**](https://github.com/rtobias-git/monitoria-programa-oweb) | Exercícios práticos em HTML e JavaScript desenvolvidos durante as aulas de monitoria | `HTML5` `JavaScript` |
 
----
 
-## Visão Geral
-
-<div align="center">
-
-![Resumo do Portfólio de Tobias](assets/perfil-resumo.svg)
-
-</div>
